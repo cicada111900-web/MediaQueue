@@ -1,4 +1,4 @@
- name: Build MediaQueue APK
+name: Build MediaQueue APK
 on:
   push:
     branches: [ main, master ]
